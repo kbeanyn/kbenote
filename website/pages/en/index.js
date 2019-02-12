@@ -148,7 +148,7 @@ class Index extends React.Component {
             content: 'This is the content of my feature',
             image: `${baseUrl}img/docusaurus.svg`,
             imageAlign: 'top',
-            title: 'Feature One',
+            title: 'Feature One, Cool Travis CI',
           },
           {
             content: 'The content of my second feature',
